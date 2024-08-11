@@ -1,7 +1,7 @@
 # 👋 Greetings! I'm Rabby
 I'm a Telecommunications Engineering graduate from Telkom University with a strong interest in data processing and software development. Currently, I'm diving deeper into the world of data science, exploring new techniques and tools to turn data into actionable insights.
 
-# 🌐 Connect with Me
+## 🌐 Connect with Me
   <a href="https://www.linkedin.com/in/rabbyfitriana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:rabbyfitrianaa@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/ra.aby/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white"></a>
