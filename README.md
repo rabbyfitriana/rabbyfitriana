@@ -16,6 +16,7 @@ I have a strong interest in data processing and software development. I'm diving
 ![Static Badge](https://img.shields.io/badge/canva-%2300C4CC?logo=canva&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/c%20language-%23282c50?logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/c%2B%2B-%2300599C?logo=cplusplus&logoColor=white)
+![Static Badge](https://img.shields.io/badge/css-%231572B6?logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/googlecolab-%23F9AB00?logo=googlecolab&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/dart-%230175C2?logo=dart&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?logo=figma&logoColor=white)
