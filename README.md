@@ -2,7 +2,7 @@
 I have a degree in telecommunication engineering and have a strong interest in data processing and software development. Currently, I'm diving deeper into the world of data science, exploring new techniques and tools to turn data into actionable insights🌟
 >[!NOTE]
 >⚡️I have a degree in telecommunication engineering
-> Feel free to ask me anything—I’m happy to help!😊
+> <br>Feel free to ask me anything—I’m happy to help!😊
 
 ## 🌐 Connect with Me
   <a href="https://www.linkedin.com/in/rabbyfitriana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white"></a>
