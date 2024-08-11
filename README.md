@@ -1,5 +1,5 @@
 # 👋 Greetings! I'm Rabby
-I have a strong interest in data processing and software development. Currently, I'm diving deeper into the world of data science, exploring new techniques and tools to turn data into actionable insights🌟
+I have a strong interest in data processing and software development. I'm diving deeper into the world of data science, exploring new techniques and tools to turn data into actionable insights🌟
 >⚡️I have a degree in telecommunication engineering
 ><br>🔍 Currently looking for job opportunities
 ><br>💬Feel free to ask me anything—I’m happy to help!
