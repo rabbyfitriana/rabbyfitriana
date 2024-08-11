@@ -37,4 +37,4 @@ I have a strong interest in data processing and software development. I'm diving
 ![Static Badge](https://img.shields.io/badge/virtualbox-%23183A61?logo=virtualbox&logoColor=white)
 
 ## 📃 Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbyfitriana&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbyfitriana&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
