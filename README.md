@@ -14,7 +14,8 @@ I have a strong interest in data processing and software development. I'm diving
 ![Static Badge](https://img.shields.io/badge/anaconda-%2344A833?logo=anaconda&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/arduino-%2300878F?logo=arduino&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/canva-%2300C4CC?logo=canva&logoColor=white)
-![Static Badge](https://img.shields.io/badge/c-%23A8B9CC?logo=c&logoColor=white)
+![Static Badge](https://img.shields.io/badge/c%20language-%23282c50?logo=c&logoColor=white)
+![Static Badge](https://img.shields.io/badge/c%2B%2B-%2300599C?logo=cplusplus&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/googlecolab-%23F9AB00?logo=googlecolab&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/dart-%230175C2?logo=dart&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?logo=figma&logoColor=white)
@@ -34,8 +35,8 @@ I have a strong interest in data processing and software development. I'm diving
 ![Static Badge](https://img.shields.io/badge/sqlite-%23003B57?logo=sqlite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/virtualbox-%23183A61?logo=virtualbox&logoColor=white)
 
----
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbyfitriana&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+## 📃 Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbyfitriana&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 <!--
@@ -43,6 +44,7 @@ Anaconda
 Arduino
 Canva
 C
+C++
 Colab
 Dart
 Figma
