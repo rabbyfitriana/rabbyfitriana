@@ -3,10 +3,6 @@ I'm a Telecommunications Engineering graduate from Telkom University with a stro
 <p align="center">
 Socials
 </p>
-<p align="center">
-![Static Badge](https://img.shields.io/badge/instagram-%23E4405F?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fra.aby)
-![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?logo=gmail&logoColor=white&link=mailto%3Arabbyfitrianaa%40gmail.com)
-</p>
 
 ## 👩🏻‍💻 My Skill Set
 ![Static Badge](https://img.shields.io/badge/anaconda-%2344A833?logo=anaconda&logoColor=white)
