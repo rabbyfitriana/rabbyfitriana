@@ -3,6 +3,13 @@ I'm a Telecommunications Engineering graduate from Telkom University with a stro
 <p align="center">
 Socials
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rabbyfitriana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="mailto:rabbyfitrianaa@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="mailto:rabbyfitrianaa@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/ra.aby/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
+  <a href="https://www.youtube.com/@rabbyfitriana" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-C6002B?style=flat-square&logo=YouTube&logoColor=white"></a>
+</p>
 
 ## 👩🏻‍💻 My Skill Set
 ![Static Badge](https://img.shields.io/badge/anaconda-%2344A833?logo=anaconda&logoColor=white)
