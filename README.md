@@ -1,6 +1,6 @@
 # 👋 Greetings! I'm Rabby
 I have a degree in telecommunication engineering and have a strong interest in data processing and software development. Currently, I'm diving deeper into the world of data science, exploring new techniques and tools to turn data into actionable insights🌟
-⚡️ Ps: I have a degree in telecommunication engineering;
+<br>⚡️ Ps: I have a degree in telecommunication engineering;
 💬 Feel free to ask me anything—I’m happy to help!
 
 ## 🌐 Connect with Me
