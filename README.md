@@ -38,30 +38,3 @@ I have a strong interest in data processing and software development. I'm diving
 
 ## 📃 Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbyfitriana&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-
-<!--
-Anaconda
-Arduino
-Canva
-C
-C++
-Colab
-Dart
-Figma
-Firebase
-HTML5
-Java
-JavaScript
-JSON
-Jupyter
-Kotlin
-Numpy
-Pandas
-Python
-R
-Scikit-learn
-SciPy
-SQL
-Virtual Box
--->
