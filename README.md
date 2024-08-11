@@ -33,6 +33,9 @@ I have a degree in telecommunication engineering and have a strong interest in d
 ![Static Badge](https://img.shields.io/badge/sqlite-%23003B57?logo=sqlite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/virtualbox-%23183A61?logo=virtualbox&logoColor=white)
 
+---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbyfitriana&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
 <!--
 Anaconda
