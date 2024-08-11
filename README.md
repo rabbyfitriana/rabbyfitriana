@@ -4,7 +4,6 @@ I'm a Telecommunications Engineering graduate from Telkom University with a stro
 Socials
 </p>
 <p align="center">
-![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frabbyfitriana%2F)
 ![Static Badge](https://img.shields.io/badge/instagram-%23E4405F?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fra.aby)
 ![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?logo=gmail&logoColor=white&link=mailto%3Arabbyfitrianaa%40gmail.com)
 </p>
